@@ -6,11 +6,11 @@ This repo contains data on 18 isoforms which had previously been identified in l
 
 Structure models were generated in
 
-AlphaFold2 [ColabFold notebook](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)
+ - AlphaFold2 [ColabFold notebook](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)
 
-OmegaFold [OmegaFold notebook](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/beta/omegafold.ipynb)
+ - OmegaFold [OmegaFold notebook](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/beta/omegafold.ipynb)
 
-ESMFold [ESMFold web server](https://esmatlas.com/resources?action=fold)
+ - ESMFold [ESMFold web server](https://esmatlas.com/resources?action=fold)
 
 using default settings for all.
 
