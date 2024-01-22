@@ -1,6 +1,6 @@
 # Isoforms benchmark
 
-This repo contains data on 18 isoforms which had previously been identified in literature as containing splice events in the middle of structure domains. We found that in AF2, OmegaFold, ESMFold, many of these result in erroneous structure predictions. We present this benchmark in the hopes that it can be used to identify non-biophysically-realistic errors in structure prediction methods.
+This repo contains data on 18 isoforms which had previously been identified in literature as containing splice events in the middle of structure domains. We found that in AF2, OmegaFold, ESMFold, many of these result in erroneous structure predictions. We present this benchmark in the hopes that it can be used to identify biophysically-unrealistic structure predictions, it is by no means meant to be comprehensive.
 
 ## Models:
 
