@@ -17,3 +17,7 @@ using default settings for all.
 ## Scripts:
 
 We provide information to calculate the Surface Aggregation Propensity score for structure models.
+
+## Metadata
+
+Metadata on all 18 isoforms is available [in this Google sheet](https://docs.google.com/spreadsheets/d/1Dje435HatkPBqaDm8GXNyEYWeEkLyFfTfqXnsRdl9ZM/edit?usp=sharing).
