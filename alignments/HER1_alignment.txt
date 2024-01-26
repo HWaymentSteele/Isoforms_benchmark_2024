@@ -1,0 +1,12 @@
+Consensus    GSSSTLTKELIKDAAEKCCTRNRQECCIEIMKFGTPIRCGYDRDPKLPGYVYKCLQNVLFAKEPKKKINLDDSVCCSVFG   80
+HER1         GSSSTLTKELIKDAAEKCCTRNRQECCIEIMKFGTPIRCGYDRDPKLPGYVYKCLQNVLFAKEPKKKINLDDSVCCSVFG   80
+HER1_isoform --------------------------------------------------------------------------------
+
+Consensus    NDQEDSGRRCENRCKNLMTSPSIDAATRLDSIKSCSLLDNVLYKCFEKCRSLRKDGIKIEVLQFEEYCXATFIQKRTFRG  160
+HER1         NDQEDSGRRCENRCKNLMTSPSIDAATRLDSIKSCSLLDNVLYKCFEKCRSLRKDGIKIEVLQFEEYCEATFIQKRTFRG  160
+HER1_isoform -----------------MTSPSIDAATRLDSIKSCSLLDNVLYKCFEKCRSLRKDGIKIEVLQFEEYCNATFIQKRTFRG   63
+
+Consensus    V                                                                                 161
+HER1         V                                                                                 161
+HER1_isoform V                                                                                  64
+
